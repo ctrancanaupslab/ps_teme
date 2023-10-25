@@ -46,4 +46,3 @@ plt.grid(True)
 
 # afișare grafic
 plt.show()
-Acest cod generează ma
